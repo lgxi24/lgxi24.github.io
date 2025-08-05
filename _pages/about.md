@@ -18,4 +18,5 @@ You can check out my [Portfolio](/portfolio/) to see some of my experiences.
 
 # News :new:
 - [2025.07] I will continue as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group, funded by the [IROP](https://www.imperial.ac.uk/students/global-opportunities/ug/summerresearchplacements/) Program!
-- [2025.02] I started as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group at Imperial!
+- [2025.02] I will start as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group at Imperial!
+- [2024.06] I will start as a research intern in the [iDSL Lab](https://www.imperial.ac.uk/intelligent-digital-systems/) at Imperial, supervised by [Prof. Christos Bouganis](https://profiles.imperial.ac.uk/christos-savvas.bouganis). Thanks to the [UROP](https://www.imperial.ac.uk/urop) scheme for the funding!
