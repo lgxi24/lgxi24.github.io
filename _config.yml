@@ -226,7 +226,7 @@ collections:
     output: false # disable markdown page for single publication
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false # disable markdown page for single portfolio
     permalink: /:collection/:path/
   talks:
     output: true
