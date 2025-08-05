@@ -89,6 +89,11 @@
   text-decoration: none !important;
 }
 
+/* Publications-specific: Smaller title font size */
+.publications-page .archive__item-title {
+  font-size: $type-size-5; /* 16px instead of default h2 20px */
+}
+
 
 /*
    List view
