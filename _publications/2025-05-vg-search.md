@@ -3,7 +3,7 @@ title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-T
 collection: publications
 category: preprints
 permalink: /publication/2025-05-vg-search
-excerpt: ''
+# excerpt: ''
 date: 2025.05
 venue: ''
 slidesurl: ''
