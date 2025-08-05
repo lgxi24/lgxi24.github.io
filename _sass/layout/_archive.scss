@@ -84,6 +84,11 @@
   }
 }
 
+/* Publications-specific: Remove title underline on hover */
+.publications-page .archive__item:hover .archive__item-title {
+  text-decoration: none !important;
+}
+
 
 /*
    List view
