@@ -11,11 +11,11 @@ redirect_from:
 
 ===
 
-# Education
+## Education
 ======
 * MEng in Electronic and Information Engineering, Department of Electrical and Electronic Engineering, Imperial College London, 2022-2026 (Expected)
 
-# Work experience
+## Work experience
 ======
 * Undergraduate Researcher (2025.02-Now)
   * Department of Computing, Imperial College London
@@ -23,7 +23,7 @@ redirect_from:
 
 * Undergraduate Researcher (2024.06-2024.09)
   * Department of Electrical and Electronic Engineering, Imperial College London
-  * Supervisor: Prof. Christos Bouganis, Dr. Zhewen Yu
+  * Supervisors: Prof. Christos Bouganis, Dr. Zhewen Yu
 
 
 <!-- Skills
@@ -35,7 +35,7 @@ redirect_from:
   * Sub-skill 2.3
 * Skill 3 -->
 
-# Publications
+## Publications
 ======
 For a complete list of my publications, please see my [Publications page](/publications/).
 
