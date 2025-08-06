@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+===
+
+# Education
 ======
 * MEng in Electronic and Information Engineering, Department of Electrical and Electronic Engineering, Imperial College London, 2022-2026 (Expected)
 
-Work experience
+# Work experience
 ======
 * Undergraduate Researcher (2025.02-Now)
   * Department of Computing, Imperial College London
@@ -33,7 +35,7 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+# Publications
 ======
 For a complete list of my publications, please see my [Publications page](/publications/).
 
