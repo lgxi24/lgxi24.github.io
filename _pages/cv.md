@@ -13,7 +13,6 @@ redirect_from:
 - MEng in Electronic and Information Engineering, Department of Electrical and Electronic Engineering, Imperial College London, 2022-2026 (Expected)
 
 ## Work experience
-======
 - Undergraduate Researcher (2025.02-Now)
   - Department of Computing, Imperial College London
   - Supervisor: Dr. Hongxiang Fan
@@ -32,7 +31,6 @@ redirect_from:
 * Skill 3 -->
 
 ## Publications
-======
 For a complete list of my publications, please see my [Publications page](/publications/).
 
 <!-- Publications
