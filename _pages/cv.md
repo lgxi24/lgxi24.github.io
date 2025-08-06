@@ -14,12 +14,13 @@ redirect_from:
 Department of Electrical and Electronic Engineering, Imperial College London
 
 ## Work experience
-**Undergraduate Researcher** (2025.02-Now)
-Department of Computing, Imperial College London 
-- Supervisor: Dr. Hongxiang Fan
 
-**Undergraduate Researcher** (2024.06-2024.09)
-Department of Electrical and Electronic Engineering, Imperial College London 
+- **Undergraduate Researcher** (2025.02-Now)
+  - Department of Computing, Imperial College London 
+  - Supervisor: Dr. Hongxiang Fan
+
+- **Undergraduate Researcher** (2024.06-2024.09)
+  - Department of Electrical and Electronic Engineering, Imperial College London 
   - Supervisor: Prof. Christos Bouganis, Dr. Zhewen Yu
 
 <!-- Skills
