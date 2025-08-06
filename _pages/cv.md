@@ -13,12 +13,10 @@ redirect_from:
 - MEng in Electronic and Information Engineering, Department of Electrical and Electronic Engineering, Imperial College London, 2022-2026 (Expected)
 
 ## Work experience
-- Undergraduate Researcher (2025.02-Now)
-  - Department of Computing, Imperial College London
+- Undergraduate Researcher | Department of Computing, Imperial College London (2025.02-Now)
   - Supervisor: Dr. Hongxiang Fan
 
-- Undergraduate Researcher (2024.06-2024.09)
-  - Department of Electrical and Electronic Engineering, Imperial College London
+- Undergraduate Researcher | Department of Electrical and Electronic Engineering, Imperial College London (2024.06-2024.09)
   - Supervisor: Prof. Christos Bouganis, Dr. Zhewen Yu
 
 <!-- Skills
