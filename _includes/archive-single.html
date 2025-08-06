@@ -34,6 +34,13 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% if post.collection == 'publications' and post.authors %}
+      <p class="archive__item-authors">
+        {% assign authors_with_underline = post.authors | replace: "Guanxi Lu", "<u>Guanxi Lu</u>" %}
+        {{ authors_with_underline }}
+      </p>
+    {% endif %}
+
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y.%m" }} </p>
         {% elsif post.collection == 'publications' %}
