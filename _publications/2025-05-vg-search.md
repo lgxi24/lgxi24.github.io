@@ -6,9 +6,9 @@ authors: "Hao Mark Chen, Guanxi Lu, Yasuyuki Okoshi, Zhiwen Mo, Masato Motomura,
 permalink: /publication/2025-05-vg-search
 excerpt: ''
 date: 2025-05-16
-venue: ''
+venue: 'NeurIPS'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2505.11730'
 bibtexurl: ''
 citation: ''
 ---
