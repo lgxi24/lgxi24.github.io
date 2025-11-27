@@ -1,7 +1,7 @@
 ---
 title: "Efficient and Flexible FP-INTx Accelerator for Weight-only Quantized LLM Inference"
 collection: publications
-category: preprints
+category: conferences
 authors: "Zhican Wang, Hongxiang Fan, Guanxi Lu, Chen Zhang, Haroon Waris, Hao (Mark) Chen, Guanghui He"
 permalink: /publication/2025-fp-int
 excerpt: ''
