@@ -49,19 +49,52 @@
   }
 }
 
-.archive__item-authors {
-  margin-top: 0 !important;
-  margin-bottom: 0.1em !important;
-  font-size: $type-size-6;
+/* Publication-specific title styling */
+.archive__item-title--publication {
+  margin-top: 0.3em;
+  margin-bottom: 0.4em;
+  font-size: $type-size-4; /* Slightly larger for publications */
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--global-text-color);
+}
+
+/* Publication metadata (date) */
+.archive__item-publication-meta {
+  margin-bottom: 0.2em;
+}
+
+.archive__item-date {
+  font-size: $type-size-7;
+  font-weight: 500;
   color: var(--global-text-color-light);
-  font-style: italic;
+  background-color: var(--global-border-color);
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  font-family: $monospace;
+}
+
+.archive__item-authors {
+  margin-top: 0.2em;
+  margin-bottom: 0.3em;
+  font-size: $type-size-6;
+  color: var(--global-text-color);
+  line-height: 1.4;
+  
+  u {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--global-base-color);
+  }
 }
 
 .archive__item-venue {
-  margin-top: 0.1em !important;
-  margin-bottom: 0.3em !important;
+  margin-top: 0.1em;
+  margin-bottom: 0.5em;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
+  font-style: italic;
+  font-weight: 500;
 }
 
 /* remove border*/
