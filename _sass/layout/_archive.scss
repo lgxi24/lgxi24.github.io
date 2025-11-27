@@ -93,6 +93,13 @@
   }
 }
 
+/* Remove underline hover effect for publications only */
+.archive__item--publication:hover {
+  .archive__item-title {
+    text-decoration: none;
+  }
+}
+
 
 /*
    List view
