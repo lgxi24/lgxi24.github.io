@@ -55,7 +55,6 @@
   font-size: $type-size-6;
   color: var(--global-text-color-light);
   font-style: italic;
-  background-color: rgba(255, 0, 0, 0.1); /* Debug: red background */
 }
 
 .archive__item-venue {
@@ -63,7 +62,6 @@
   margin-bottom: 0.3em !important;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
-  background-color: rgba(0, 255, 0, 0.1); /* Debug: green background */
 }
 
 /* remove border*/
@@ -105,18 +103,11 @@
 /* Remove underline hover effect for publications only */
 .archive__item--publication:hover .archive__item-title {
   text-decoration: none !important;
-  background-color: rgba(0, 0, 255, 0.2) !important; /* Debug: blue background on hover */
 }
 
 /* Additional specificity for publication hover effects */
 .list__item .archive__item--publication:hover .archive__item-title {
   text-decoration: none !important;
-  background-color: rgba(0, 0, 255, 0.2) !important; /* Debug: blue background on hover */
-}
-
-/* Debug: Mark all publication items */
-.archive__item--publication {
-  border-left: 3px solid orange; /* Debug: orange border for publications */
 }
 
 
