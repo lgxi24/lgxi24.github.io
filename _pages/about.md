@@ -29,6 +29,6 @@ You can check out [Experiences](/cv/) to see some of my experiences.
 <br><br>
 
 <!-- MapMyVisitors Widget -->
-<div style="text-align: center; margin-top: 40px; transform: scale(0.5); transform-origin: center;">
+<div style="text-align: center; margin-top: 20px; transform: scale(0.5); transform-origin: center;">
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sEk735b1IEB5hFG1-kjJ01s00GCVX17sbmAe0U2cbOw&cl=ffffff&w=a"></script>
 </div>
