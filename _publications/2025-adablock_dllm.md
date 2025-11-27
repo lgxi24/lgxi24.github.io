@@ -1,11 +1,11 @@
 ---
-title: "Efficient and Flexible FP-INTx Accelerator for Weight-only Quantized LLM Inference"
+title: "AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size"
 collection: publications
 category: preprints
-authors: "Zhican Wang, Hongxiang Fan, Guanxi Lu, Chen Zhang, Haroon Waris, Hao (Mark) Chen, Guanghui He"
-permalink: /publication/2025-fp-int
+authors: "Guanxi Lu, Hao (Mark) Chen, Yuto Karashima, Zhican Wang, Daichi Fujiki, Hongxiang Fan"
+permalink: /publication/2025-adablock_dllm
 excerpt: ''
-date: 2025.09.01
+date: 2025.09.27
 venue: 'Preprint'
 slidesurl: ''
 paperurl: ''

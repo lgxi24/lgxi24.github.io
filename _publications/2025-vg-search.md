@@ -2,7 +2,7 @@
 title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling"
 collection: publications
 category: conferences
-authors: "Hao Mark Chen, Guanxi Lu, Yasuyuki Okoshi, Zhiwen Mo, Masato Motomura, Hongxiang Fan"
+authors: "Hao (Mark) Chen, Guanxi Lu, Yasuyuki Okoshi, Zhiwen Mo, Masato Motomura, Hongxiang Fan"
 permalink: /publication/2025-vg-search
 excerpt: ''
 date: 2025-05-16

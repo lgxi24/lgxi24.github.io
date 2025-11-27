@@ -2,7 +2,7 @@
 title: "FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning"
 collection: publications
 category: conferences
-authors: "Hao Mark Chen, Zhiwen Mo, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
+authors: "Hao (Mark) Chen, Zhiwen Mo, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
 permalink: /publication/2025-tts-sys
 excerpt: ''
 date: 2026.03.01
