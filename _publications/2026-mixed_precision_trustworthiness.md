@@ -1,5 +1,5 @@
 ---
-title: "Efficient and Flexible FP-INTx Accelerator for Weight-only Quantized LLM Inference"
+title: "(Invited Paper) Enhancing Trustworthiness with Mixed Precision: Benchmarks, Opportunities, and Challenges"
 collection: publications
 category: preprints
 authors: "Guanxi Lu, Hao (Mark) Chen, Zhiqiang Que, Wayne Luk, Hongxiang Fan"

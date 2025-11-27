@@ -8,7 +8,7 @@ excerpt: ''
 date: 2025.09.27
 venue: 'Preprint'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2509.26432'
 bibtexurl: ''
 citation: ''
 ---
