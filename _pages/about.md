@@ -11,7 +11,7 @@ Hi, welcome to my homepage! :wave:
 
 I’m currently an undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My experience spans multiple disciplines, including computer architecture, FPGA (Field-Programmable Gate Array), and machine learning.
 
-Currently, my research interests are efficient LLM inference, e.g., test-time scaling, and efficient Diffusion LLM (dLLM) inference. 
+Currently, my research interests are efficient LLM inference, including test-time scaling, mixed-precision inference, and efficient Diffusion LLM (dLLM) inference. 
 You can check out [Experiences](/cv/) to see some of my experiences. 
 
 ---
@@ -26,4 +26,7 @@ You can check out [Experiences](/cv/) to see some of my experiences.
 
 ---
 
-<iframe src="/talkmap/map.html" height="400" width="100%" style="border:1px solid #ddd; border-radius: 8px; margin-top: 20px;"></iframe>
+<!-- MapMyVisitors Widget -->
+<div style="text-align: center; margin-top: 20px;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sEk735b1IEB5hFG1-kjJ01s00GCVX17sbmAe0U2cbOw&cl=ffffff&w=a"></script>
+</div>
