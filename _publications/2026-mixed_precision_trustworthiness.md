@@ -1,7 +1,7 @@
 ---
 title: "(Invited Paper) Enhancing Trustworthiness with Mixed Precision: Benchmarks, Opportunities, and Challenges"
 collection: publications
-category: preprints
+category: conferences
 authors: "Guanxi Lu, Hao (Mark) Chen, Zhiqiang Que, Wayne Luk, Hongxiang Fan"
 permalink: /publication/2026-mixed_precision_trustworthiness
 excerpt: ''
