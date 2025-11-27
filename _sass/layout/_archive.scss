@@ -73,12 +73,42 @@
   }
 }
 
-.archive__item-venue-date {
+.archive__item-venue-date-links {
   margin-top: 0;
   margin-bottom: 0.5em;
-  font-size: $type-size-6;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+
+.archive__item-venue-date {
+  font-size: $type-size-8;
   color: var(--global-text-color);
   font-style: italic;
+}
+
+.archive__item-links {
+  display: flex;
+  gap: 0.3em;
+  align-items: center;
+}
+
+.archive__item-link {
+  font-size: $type-size-7;
+  font-weight: 500;
+  color: var(--global-text-color-light);
+  background-color: var(--global-border-color);
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: $sans-serif;
+  
+  &:hover {
+    background-color: var(--global-text-color-light);
+    color: var(--global-bg-color);
+    text-decoration: none;
+  }
 }
 
 /* remove border*/

@@ -1,14 +1,14 @@
 ---
-title: "Rethinking Optimal Verification Granularity for Compute-Efficient Test-Time Scaling"
+title: "FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning"
 collection: publications
 category: conferences
-authors: "Hao Mark Chen, Guanxi Lu, Yasuyuki Okoshi, Zhiwen Mo, Masato Motomura, Hongxiang Fan"
-permalink: /publication/2025-05-vg-search
+authors: "Hao Mark Chen, Zhiwen Mo, Guanxi Lu, Shuang Liang, Lingxiao Ma, Wayne Luk, Hongxiang Fan"
+permalink: /publication/2025-tts-sys
 excerpt: ''
-date: 2025-05-16
-venue: 'NeurIPS'
+date: 2026.03.01
+venue: 'ASPLOS'
 slidesurl: ''
-paperurl: 'https://arxiv.org/abs/2505.11730'
+paperurl: 'https://arxiv.org/abs/2509.00195'
 bibtexurl: ''
 citation: ''
 ---
