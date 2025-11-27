@@ -51,10 +51,17 @@
 
 .archive__item-authors {
   margin-top: 0;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
   font-size: $type-size-6;
   color: var(--global-text-color-light);
   font-style: italic;
+}
+
+.archive__item-venue {
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
 }
 
 /* remove border*/
@@ -96,7 +103,7 @@
 /* Remove underline hover effect for publications only */
 .archive__item--publication:hover {
   .archive__item-title {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 }
 
