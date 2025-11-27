@@ -55,12 +55,12 @@
           {% if post.category == 'preprints' %}
             <!-- Date already shown in title, only show venue if exists -->
             {% if post.venue and post.venue != '' %}
-              <p class="archive__item-venue"><i>{{ post.venue }}</i></p>
+              <p class="archive__item-venue">{{ post.venue }}</p>
             {% endif %}
           {% else %}
             <!-- Date already shown in title, only show venue -->
             {% if post.venue and post.venue != '' %}
-              <p class="archive__item-venue"><i>{{ post.venue }}</i></p>
+              <p class="archive__item-venue">{{ post.venue }}</p>
             {% endif %}
           {% endif %}
         {% elsif post.date %}
