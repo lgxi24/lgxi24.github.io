@@ -8,7 +8,7 @@ excerpt: ''
 date: 2026.01.21
 venue: 'ASP-DAC'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2511.22483'
 bibtexurl: ''
 citation: ''
 ---
