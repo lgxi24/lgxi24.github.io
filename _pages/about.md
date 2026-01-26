@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my homepage! :wave:
 
-I’m currently an undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My experience spans multiple disciplines, including computer architecture, FPGA (Field-Programmable Gate Array), and machine learning.
+My name is Guanxi, I’m currently an undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My experience spans multiple disciplines, including computer architecture, FPGA (Field-Programmable Gate Array), and machine learning.
 
 Currently, my research interests are efficient LLM inference, including test-time scaling, mixed-precision inference, and efficient Diffusion LLM (dLLM) inference. 
 You can check out [Experiences](/cv/) to see some of my experiences. 
@@ -17,6 +17,7 @@ You can check out [Experiences](/cv/) to see some of my experiences.
 ---
 
 # :fire: News
+- [2026.01] [AdaBlock-dLLM](https://arxiv.org/abs/2509.26432) was accepted to ICLR 2026!
 - [2025.11] [FastTTS](https://arxiv.org/abs/2509.00195) was accepted to ASPLOS 2026. Congratulations to Mark!
 - [2025.11] One [invited paper](https://arxiv.org/abs/2511.22483) on mixed precision will appear at ASP-DAC 2026!
 - [2025.09] [VG-Search](https://arxiv.org/abs/2505.11730) on Test-Time Scaling was accepted to NeurIPS 2025!

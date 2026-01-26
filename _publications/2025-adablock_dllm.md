@@ -1,12 +1,12 @@
 ---
 title: "AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size"
 collection: publications
-category: preprints
+category: conferences
 authors: "Guanxi Lu, Hao (Mark) Chen, Yuto Karashima, Zhican Wang, Daichi Fujiki, Hongxiang Fan"
 permalink: /publication/2025-adablock_dllm
 excerpt: ''
-date: 2025.09.27
-venue: 'Preprint'
+date: 2026.04.25
+venue: 'ICLR'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2509.26432'
 bibtexurl: ''
