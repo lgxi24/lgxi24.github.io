@@ -9,6 +9,7 @@ date: 2025-05-16
 venue: 'NeurIPS'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2505.11730'
+codeurl: 'https://github.com/hmarkc/VG-Search'
 bibtexurl: ''
 citation: ''
 ---

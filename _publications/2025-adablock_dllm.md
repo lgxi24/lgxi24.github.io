@@ -9,6 +9,7 @@ date: 2026.04.25
 venue: 'ICLR'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2509.26432'
+codeurl: 'https://github.com/lgxi24/AdaBlock-dLLM'
 bibtexurl: ''
 citation: ''
 ---

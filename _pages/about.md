@@ -25,6 +25,9 @@ You can check out [Experiences](/cv/) to see some of my experiences.
 - [2025.02] I will start as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group at Imperial!
 - [2024.06] I will start as a research intern in the [iDSL Lab](https://www.intelligent.digital-systems/) at Imperial, supervised by [Prof. Christos Bouganis](https://profiles.imperial.ac.uk/christos-savvas.bouganis). Thanks to the [UROP](https://www.imperial.ac.uk/urop) scheme for the funding!
 
+# :game_die: Random
+In my spare time, I love travelling and watching football. I’m a *socio* (member) of FC Barcelona, which means I’m one of the owners of the best football club in the world :satisfied:
+
 ---
 
 <!-- MapMyVisitors Widget -->
