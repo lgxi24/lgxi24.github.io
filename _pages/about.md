@@ -9,10 +9,7 @@ redirect_from:
 
 Hi, welcome to my homepage! :wave:
 
-My name is Guanxi, I’m currently an undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My experience spans multiple disciplines, including computer architecture, FPGA (Field-Programmable Gate Array), and machine learning.
-
-Currently, my research interests are efficient LLM inference, including test-time scaling, mixed-precision inference, and efficient Diffusion LLM (dLLM) inference. 
-You can check out [Experiences](/cv/) to see some of my experiences. 
+My name is Guanxi, and I am currently a final-year undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My interests span machine learning and computer architecture, with a current research focus on efficient algorithms and systems for machine learning. Specifically, I work on inference optimization for diffusion LLMs, agentic AI systems, and mixed-precision inference. You can check out [Experiences](/cv/) to learn more about my work and experience.
 
 ---
 
@@ -21,12 +18,11 @@ You can check out [Experiences](/cv/) to see some of my experiences.
 - [2025.11] [FastTTS](https://arxiv.org/abs/2509.00195) was accepted to ASPLOS 2026. Congratulations to Mark!
 - [2025.11] One [invited paper](https://arxiv.org/abs/2511.22483) on mixed precision will appear at ASP-DAC 2026!
 - [2025.09] [VG-Search](https://arxiv.org/abs/2505.11730) on Test-Time Scaling was accepted to NeurIPS 2025!
-- [2025.07] I will continue as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group, funded by the [IROP](https://www.imperial.ac.uk/students/global-opportunities/ug/summerresearchplacements/) Program!
-- [2025.02] I will start as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group at Imperial!
-- [2024.06] I will start as a research intern in the [iDSL Lab](https://www.intelligent.digital-systems/) at Imperial, supervised by [Prof. Christos Bouganis](https://profiles.imperial.ac.uk/christos-savvas.bouganis). Thanks to the [UROP](https://www.imperial.ac.uk/urop) scheme for the funding!
+- [2025.02] I will start as a research intern in [Dr. Hongxiang Fan](https://os-hxfan.github.io/)'s research group at Imperial, funded by the [IROP](https://www.imperial.ac.uk/students/global-opportunities/ug/summerresearchplacements/) Program!
+- [2024.06] I will start as a research intern in the [iDSL Lab](https://www.intelligent.digital-systems/) at Imperial, supervised by [Prof. Christos Bouganis](https://profiles.imperial.ac.uk/christos-savvas.bouganis)! Thanks to the [UROP](https://www.imperial.ac.uk/urop) scheme for the funding.
 
 # :game_die: Random
-In my spare time, I love travelling and watching football. I’m a *socio* (member) of FC Barcelona, which means I’m one of the owners of the best football club in the world :satisfied:
+In my spare time, I enjoy travelling and watching football. I am proud to be a *socio* (member) of FC Barcelona, a club I have supported for more than 15 years.
 
 ---
 
