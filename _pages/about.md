@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my homepage! :wave:
 
-My name is Guanxi, and I am currently a final-year undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My interests span machine learning and computer architecture, with a current research focus on efficient algorithms and systems for machine learning. Specifically, I work on inference optimization for diffusion LLMs, agentic AI systems, and mixed-precision inference. You can check out [Experiences](/cv/) to learn more about my work and experience.
+My name is Guanxi, and I am currently a final-year undergraduate student in the Department of Electrical and Electronic Engineering at Imperial College London. My research interest is efficient algorithms, systems, and hardware for machine learning. Specifically, I work on inference optimization for diffusion LLMs, agentic AI systems, and mixed-precision inference. You can check out [Experiences](/cv/) to learn more about my work and experience.
 
 ---
 
